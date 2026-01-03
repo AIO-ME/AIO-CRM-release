@@ -1,19 +1,19 @@
 {
-  "version": "1.0.0",
-  "notes": "AIO-CRM v1.0.0 - See GitHub release for details",
-  "pub_date": "2026-01-01T16:04:44Z",
+  "version": "1.0.1",
+  "notes": "AIO-CRM v1.0.1 - See GitHub release for details",
+  "pub_date": "2026-01-03T20:31:04Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.0/AIO-CRM_1.0.0_aarch64.app.tar.gz"
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.1/AIO-CRM_1.0.1_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.0/AIO-CRM_1.0.0_x64.app.tar.gz"
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.1/AIO-CRM_1.0.1_x64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.0/AIO-CRM_1.0.0_x64-setup.exe"
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.1/AIO-CRM_1.0.1_x64-setup.exe"
     }
   }
 }
