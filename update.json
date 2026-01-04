@@ -4,8 +4,8 @@
   "pub_date": "2026-01-04T10:31:23Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.1/AIO-CRM_1.0.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS1BSZTgxOUovTW9vS0ltWEFhY2E0SHg2N0VmeE12dlJvQmY5RzE3eDNuYjcwT0o3ZTdEWkFnZGh1M2xncGJJOVBBbjh1NFVKNkdIdWhVMGFBVUszemd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTIxNzIwCWZpbGU6QUlPLUNSTS5hcHAudGFyLmd6ClhqV2UxUGJnOTI2K0QveEJ1R2JLS0RqbmNGa3R1VHNBVE5UM1lUY3Fhamo3SXBSZlRlRHFJcXZ1QzJkZHNLR1FPL1duWHBtSVU0eHN1RXhTUDVFVEFBPT0K",
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.1/AIO-CRM.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0pVRW00aVNVdENIUlBCSzhWeHNzRGpMWFJ0eTRlejBhc2ZSTFhoNm9xREx1dnVtM09RR2ltOE5SS0pKZFg4T3JxRWtZSG9qeUVVbDZuaHlGNmtEdVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTIyNjMxCWZpbGU6QUlPLUNSTV8xLjAuMV94NjQtc2V0dXAuZXhlCitkT2EyY3krYW1pSEZNV1IvcTZlZzlxRnVSQnlzV0QyQ3pPeW05N3dqQjlFZEg0QUxxeFhOT25vNno2M091Y3JJN2d5Y3l5dVpNcm9nZTZ0bDRscEFBPT0K",
