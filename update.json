@@ -1,19 +1,19 @@
 {
-  "version": "1.0.1",
-  "notes": "AIO-CRM v1.0.1 - See GitHub release for details",
-  "pub_date": "2026-01-04T10:31:23Z",
+  "version": "1.0.0",
+  "notes": "AIO-CRM v1.0.0 - See GitHub release for details",
+  "pub_date": "2026-01-08T10:05:31Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS1BSZTgxOUovTW9vS0ltWEFhY2E0SHg2N0VmeE12dlJvQmY5RzE3eDNuYjcwT0o3ZTdEWkFnZGh1M2xncGJJOVBBbjh1NFVKNkdIdWhVMGFBVUszemd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTIxNzIwCWZpbGU6QUlPLUNSTS5hcHAudGFyLmd6ClhqV2UxUGJnOTI2K0QveEJ1R2JLS0RqbmNGa3R1VHNBVE5UM1lUY3Fhamo3SXBSZlRlRHFJcXZ1QzJkZHNLR1FPL1duWHBtSVU0eHN1RXhTUDVFVEFBPT0K",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.1/AIO-CRM.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS09rUFRPSC9Ld2VXNEx6dk12aGpMaElPLzZ3dUt5NEV2T1g0bVh6VkttK1NNa1NQUzIzUWFreW44NGp1RXlaRmdyYk5CcXBLMjVmVDF2UkNLc3RMRkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODY1OTA1CWZpbGU6QUlPLUNSTS5hcHAudGFyLmd6Ck5CWmFDTEZONzNCbHZzZlRkTnA0Rnp6OHJpdU44dXhMY3VWVjJpYURPbmJBcGVaT215aUhUZFBkcGpsaUJLdFYyLzl4eEtDZVJvZjBTZmMweXBmK0FRPT0K",
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.0/AIO-CRM_1.0.0_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0pVRW00aVNVdENIUlBCSzhWeHNzRGpMWFJ0eTRlejBhc2ZSTFhoNm9xREx1dnVtM09RR2ltOE5SS0pKZFg4T3JxRWtZSG9qeUVVbDZuaHlGNmtEdVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTIyNjMxCWZpbGU6QUlPLUNSTV8xLjAuMV94NjQtc2V0dXAuZXhlCitkT2EyY3krYW1pSEZNV1IvcTZlZzlxRnVSQnlzV0QyQ3pPeW05N3dqQjlFZEg0QUxxeFhOT25vNno2M091Y3JJN2d5Y3l5dVpNcm9nZTZ0bDRscEFBPT0K",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.1/AIO-CRM_1.0.1_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0UrY29xa1FJbTltVEZSZTJnYS9jRmNuZkwvdm9kZ0hjL053SDBHcHdnaWVZUkpnODJ4eTYyKytja2twZzBPUEhmRHN3OG81bDM2ZWVtNXh2WTJMZ1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODY1OTI2CWZpbGU6QUlPLUNSTS5hcHAudGFyLmd6CmdsV1FUREpyMGE5UEFSclI0bHVRSHV0Ums4NzEybTREVVFtbUd5SHVMWk1oM0tWNUI2cTJwWjVwOHBvTCt0S2gzWmh5cGlpYno2cjJyQm9OazhDQkNnPT0K",
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.0/AIO-CRM_1.0.0_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0pVRW00aVNVdENIUlBCSzhWeHNzRGpMWFJ0eTRlejBhc2ZSTFhoNm9xREx1dnVtM09RR2ltOE5SS0pKZFg4T3JxRWtZSG9qeUVVbDZuaHlGNmtEdVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NTIyNjMxCWZpbGU6QUlPLUNSTV8xLjAuMV94NjQtc2V0dXAuZXhlCitkT2EyY3krYW1pSEZNV1IvcTZlZzlxRnVSQnlzV0QyQ3pPeW05N3dqQjlFZEg0QUxxeFhOT25vNno2M091Y3JJN2d5Y3l5dVpNcm9nZTZ0bDRscEFBPT0K",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.1/AIO-CRM_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0puZVI2emc2L0psVXNLSFhkdHlvNlhUS2lMYkR3bmlYUTlXMXR2a2UzbWtsWDBSLzF5SlpOQ0YzOGxoSzhyT015Z1VyNVBxd3FLczdMZnpkeTBCUFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODY2NjI5CWZpbGU6QUlPLUNSTV8xLjAuMF94NjQtc2V0dXAuZXhlClNDazhzeTNEL0dVWTZjSU1JMjBvMjNEckV6VjZmYlpBcWRtL3RJQ3JaWGNjS01oT0ZtWTZYcExWUzVSKzJsVFgzS0FyMnQzS1FlNThKa3lVUHptU0JnPT0K",
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.0/AIO-CRM_1.0.0_x64-setup.exe"
     }
   }
 }
