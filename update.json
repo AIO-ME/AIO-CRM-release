@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0V0Q3hSenJlS0pZTVEzZk1iUi9VMnllRTg0Z2xvNzlvTUxyUmlIZjVPY0VJZEFvdEh1TXBkbFd2TE1rRFFDY3dsY0pTcFZvWC9uOFRCZTlQWUVkcGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjU1MDcyCWZpbGU6Q1JNX0FJT18xLjAuNV9hYXJjaDY0LmFwcC50YXIuZ3oKWENlelVKRUhmR2ZKaXIvdDlIVVhETnJMTXBoY2xWWGQzejNXcUlOMVdDc0poK3l0bmFudUJmTmY3dDJja2ZxR1lPRnJjWVBON09OVTBLVStpNW9aQ1E9PQo=",
-      "url": "https://github.com/AIO-ME/AIO-CRM/releases/download/v1.0.5/CRM_AIO_1.0.5_aarch64.app.tar.gz"
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.5/CRM_AIO_1.0.5_aarch64.app.tar.gz"
     }
   }
 }
