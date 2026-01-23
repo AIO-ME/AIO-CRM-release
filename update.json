@@ -1,15 +1,15 @@
 {
-  "version": "1.0.7",
-  "notes": "CRM AIO v1.0.7 - Système de signalement IA & Disclaimer médical",
-  "pub_date": "2026-01-20T21:33:00Z",
+  "version": "1.0.8",
+  "notes": "CRM AIO v1.0.8 - Mise à jour Sécurité & Quotas",
+  "pub_date": "2026-01-23T21:33:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0JqNUpna2NXdkVHekV1VWNCcmJNM3NuYS9FajNBOEY3ZXFGOXp1cjlVQUtTS2JCVU9FaHJZVWYxalJ2WmExVTRzQ25YWUVpNCttRTN3RlBCL3VoS3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTkxMDU5CWZpbGU6Q1JNX0FJT18xLjAuN19hYXJjaDY0LmFwcC50YXIuZ3oKKytFeEpnaTdTWlNPZ3FtcjJ3dnlvcnY0cGZnNHZ5M3ZoWUJldElONm9HQmJvQ3JvaXU5K2FsZFRIOWxjbDdxaGpmckFGcVE3VXFFMlNFY000eHJ1Q1E9PQo=",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/V1.0.7/CRM_AIO_1.0.7_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0taWEFvNlBHakEyUVNmVFE0OVJDbTRUQlFqdkdia3NyTldsTkN4SWJ4ak5PS1IzRkloR09jUytDR21pRDJ5eGMyTHRrbHJTQVA3YzdEQmozdXY5NVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MTU0MzAwCWZpbGU6Q1JNX0FJT18xLjAuOF9hYXJjaDY0LmFwcC50YXIuZ3oKRnFNVFdSS0lsY2J0Z2ZNNHJHcU1ZWnFuUW1mekJzMjdaeHZJYVRnWVFhNHkxT1NQN2NhVm1hVUJHOHJ2aUZONlcyS1Z1ZmNDcTJGdFNWM2VQK1BWREE9PQo=",
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.8/CRM_AIO_1.0.8_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS01Rb3VRU0M0Um5Uek9MdzNOWk1nSkM1NU1DNDkxZjlydzJoZktJZkF1U09RN0pVMnByMFNDakFzSVUrVmtzeWdmZ1lmazY3ZFIwMitCK1ZML2x1YlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4OTkxMzUzCWZpbGU6Q1JNX0FJT18xLjAuN194NjQuYXBwLnRhci5negplcTRyM1F2aVRhRnVUbXp1RzllNmtTWmJRNlhET0V1Y3VYZDdUY3BiRDk0R0V2TTFrb0dBSTB2ZHdNZWlkSkM0eTlXU3hSOW1WTXNFaVBuT0tMb3RBUT09Cg==",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/V1.0.7/CRM_AIO_1.0.7_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0RUaGJZRXdEbUd0TkFjdDJESWwvRmdFNjdHNFNlc3loRnN6cCtpeFd4eEx0bjNWYk5SU0lLdzhLYUJheFk0WTl3YXZ2OXZQTk82S0Q3clJsaGRUb0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5MTU0OTQ3CWZpbGU6Q1JNX0FJT18xLjAuOF94NjQuYXBwLnRhci5negpDbys2M0xrWXIrQXppOUJRNWMxRHErOFo1UlF0ZUNWdktBcVAweGNGZnRrNzBraElSVUliTUQ0ZHBIZnJOUURsTWhSblFQbThuNVlqYkhtWXJSekdBdz09Cg==",
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.0.8/CRM_AIO_1.0.8_x64.app.tar.gz"
     }
   }
 }
