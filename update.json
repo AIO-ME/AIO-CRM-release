@@ -1,6 +1,6 @@
 {
   "version": "1.0.9",
-  "notes": "CRM AIO v1.0.8 - Fix CSP",
+  "notes": "CRM AIO v1.0.9 - Fix CSP",
   "pub_date": "2026-01-23T22:33:00Z",
   "platforms": {
     "darwin-aarch64": {
