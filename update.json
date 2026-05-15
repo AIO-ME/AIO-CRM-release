@@ -1,15 +1,15 @@
 {
-  "version": "1.1.6",
-  "notes": "CRM AIO v1.1.6 - Refonte globale UI/UX",
-  "pub_date": "2026-04-07T14:00:00Z",
+  "version": "1.1.7",
+  "notes": "CRM AIO v1.1.7 - Amélioration UI/UX",
+  "pub_date": "2026-05-15T16:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0E2OG5UZ3EyQm84bDhPTWtFOVdzS3dDRTBCVGc1STJtdGZYZ0pWZzRhQThkdjZjbVVEczRvVEQvMjh5c1lVUldkUmhYb3h6bTgwVDUvbHNTV3prMkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTYwMTk1CWZpbGU6Q1JNX0FJT18xLjEuNl9hYXJjaDY0LmFwcC50YXIuZ3oKT1VNWFpXVDNsS2NXaHpxSFI3NWw4RUs0YWlXZkJMUzQ0SlFEZytPRzFRVEZTdU5tM013VmRUUjVTY1FpM2FJdVFqUWZZbUl0MkI1ZTZvdXZoMnVTQXc9PQo=",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.1.6/CRM_AIO_1.1.6_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0NwMCtaU205WENBcDljN3ZFK204S1BwdE1tMmZ5aE1OZkNrMURHOGZ3QUNpTFJ2dElyY1V5WTI3d05NN2YzeDhxa0JuTzQvZ1hESXR2N2lKaHRXYUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODUxMjE4CWZpbGU6Q1JNX0FJT18xLjEuN19hYXJjaDY0LmFwcC50YXIuZ3oKSE5aQVJsU0ZZZ25haVdCMk9WTUx4Y1E3VFl1WitsNW93aHI0dUgxT01ZaW9TaEVHQVhIeDNwZnBVNUF1MU95NXoxRG4waFNmNTNLVyt6LzQzZ01oQkE9PQo=",
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.1.7/CRM_AIO_1.1.7_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS1B2S0Z2Zk9CejVEUlNNTFNtUnB4aEx3M3oxbTB2dXNqcTU0c3lWVktJcXl0TGpNVDJKQi9tSmR1QnRHK21yT3pGa01tL1huSHh6T3RyWHBSM0VSdmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NTYwNDEzCWZpbGU6Q1JNX0FJT18xLjEuNl94NjQuYXBwLnRhci5negozR2Q4b1pURkptZHViWHhTRUZad3VaNzFMNEpOd2xaaGNuNjJWakplNVVpRDBUd09EQ0IxcEQ5eFQ2S1pQejR2d0ZmSFM2SnoxY1dGTDNyZEdsR3dDUT09Cg==",
-      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.1.6/CRM_AIO_1.1.6_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOVowMUdGTWdyS0ZZV2FyQ2IrbGtQS3FPMjNDNWx4a3BzbkY1RWhOS2dBNjN5TFF2QXFvd21nMURRMkdYL2pQSmx0aU5sQmlYMHFpZkw2N1FBQnFCRDZNZG9zcWpaaXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODUxNDU0CWZpbGU6Q1JNX0FJT18xLjEuN194NjQuYXBwLnRhci5negpUejVKaUlwQUs1N0RBdXlZNkM0eFJrMEI5SnptTnhpUHh1SkEwTjEyc0dhUGdsZk5BRFVtc2RVS2lUNmZOOUdqV1B1Y2kvSCtGMGNFbDduaEdrck5DUT09Cg==",
+      "url": "https://github.com/AIO-ME/AIO-CRM-release/releases/download/v1.1.7/CRM_AIO_1.1.7_x64.app.tar.gz"
     }
   }
 }
