@@ -9,7 +9,7 @@ Utiliser `crm-aio-cli` sur la machine qui contient le CRM. Le CLI lit SQLite v33
 
 ## Accès
 
-Utiliser d'abord le CLI et son profil existants. Exécuter `crm-aio-cli --help`, puis la lecture nécessaire à la demande. Si le binaire n'est pas dans le PATH, si `database_not_configured` est renvoyé ou si le fichier d'un profil n'existe plus, suivre [la découverte locale macOS/Windows](references/local-setup.md) avant de demander un chemin technique à l'utilisateur.
+Utiliser d'abord le CLI et son profil existants. Exécuter `crm-aio-cli --help`, puis la lecture nécessaire à la demande. Pour un binaire absent du PATH, un profil manquant ou une erreur d'ouverture/lecture, consulter [la procédure locale macOS/Windows](references/local-setup.md) : elle distingue chemin, permissions de l'agent et compatibilité de la base, avant de demander un chemin technique à l'utilisateur.
 
 La demande de lecture d'un dossier autorise la configuration locale nécessaire pour cette installation du CRM. Identifier uniquement ses emplacements, vérifier les fichiers candidats sans lire leurs dossiers patients, puis configurer le chemin unique avec `crm-aio-cli configure --db "/chemin/absolu/thera.db"`. Si plusieurs bases ou installations subsistent, faire choisir l'utilisateur avant toute lecture. Les autres erreurs (schéma, JSON, permissions) doivent être expliquées, pas contournées en choisissant une autre base.
 
